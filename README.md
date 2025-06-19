@@ -15,5 +15,3 @@ SynPROTAC is a deep learning-based framework for the design of synthesizable PRO
 coming soon
 
 
-## License
-[MIT License](LICENSE)
