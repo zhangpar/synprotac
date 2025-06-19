@@ -2,7 +2,7 @@
 
 SynPROTAC is a deep learning-based framework for the design of synthesizable PROTAC (Proteolysis Targeting Chimeras) molecules, integrating chemical reaction path-driven molecule assembly with reinforcement learning to optimize both synthetic accessibility and binding affinity.
 
-![SynPROTAC Overview](img/fig.png)
+
 
 ## Features
 - **Reaction-driven molecule assembly**: Generates PROTACs by sampling reaction templates and building blocks.
